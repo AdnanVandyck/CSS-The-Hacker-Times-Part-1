@@ -2,3 +2,11 @@
 body {
     background-color: #eee;
 }
+.header {
+    text-align: center;
+    font-family: Abril;
+    }
+
+.navigation {
+    display: inline-block;
+}
