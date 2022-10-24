@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: Abril;
     }
-
-.navigation {
+ ul#menu li {
     display: inline-block;
+    text-align: center;
 }
