@@ -7,7 +7,7 @@ body {
     font-family: Abril Fatface;
     font-size: 300%;
     }
-.navigation{
+.top-navigation{
     text-align: center;
     color:black;
     border-top: 1px solid black;
@@ -85,6 +85,13 @@ h5 {
 .footer {
     position: relative;
     width: 100%;
+}
+#navbar{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    width: 100%;
+
 }
 
 
